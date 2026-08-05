@@ -1,59 +1,102 @@
-<h1 align="center">Juan Campos</h1>
-
-<h3 align="center" style="color: #2ecc71;">Técnico em Redes & Dev Sistemas</h3>
+<!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <a href="[URL_DO_SEU_LINKEDIN]" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:[SEU_EMAIL]">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="[URL_DO_SEU_PORTFOLIO]" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-252525?style=flat-square&logo=mac-os&logoColor=white" alt="Portfólio">
-  </a>
+  <img src="./assets/banner-spiderman.png" width="100%" alt="Banner do Perfil">
 </p>
 
----
+<h1 align="center">
+🕷️ Juan Campos
+</h1>
 
-<h2 align="left">📚 Sobre mim</h2>
-<p align="left">
-  Com formação técnica em <strong>Redes de Computadores pelo ITB Barueri</strong> e cursando <strong>Técnico em Desenvolvimento de Sistemas no SENAI</strong>, busco unir a sólida base em infraestrutura com o desenvolvimento de softwares eficientes, focando na criação de soluções Full Stack completas, seguras e bem estruturadas.
-</p>
+<h3 align="center">
+Full Stack Developer em Formação
+</h3>
 
----
-
-<h2 align="left">🛠️ Tecnologias</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,python,java,js,mysql" alt="Minhas Habilidades" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=E23636&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+em+Forma%C3%A7%C3%A3o;T%C3%A9cnico+em+Redes+de+Computadores;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas;Java+%E2%80%A2+Python+%E2%80%A2+HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Sempre+aprendendo+algo+novo." alt="Typing SVG"/>
 </p>
 
----
-
-<h2 align="left">💡 Foco</h2>
-<ul>
-  <li>Lógica de programação e construção de algoritmos</li>
-  <li>Programação Orientada a Objetos (POO) com Java e Python</li>
-  <li>Desenvolvimento de interfaces web (HTML, CSS e JS)</li>
-  <li>Modelagem e manipulação de Banco de Dados Relacional (MySQL)</li>
-  <li>Conceitos de infraestrutura e conectividade de Redes (ITB)</li>
-</ul>
-
----
-
-<h2 align="left">👾 Área de Descanso</h2>
 <p align="center">
-  <i>Dando uma pausa nos códigos...</i><br><br>
-  <img src="https://media.giphy.com/media/10Uwa4EAy16B2M/giphy.gif" alt="Pac-Man Game GIF" width="350" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+
+<a href="https://github.com/Juanzinxls">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-E23636?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<h2 align="left">🏗️ Projetos em Destaque</h2>
-<p align="left">
-  <strong>[Nome do seu Projeto de TCC] - TCC (SENAI)</strong><br>
-  [Breve descrição do seu TCC. Ex: Sistema web focado na gestão de pequenos negócios, integrando banco de dados MySQL com interface web responsiva.]<br>
-  <a href="[LINK_DO_REPOSITORIO]">Acessar Repositório</a>
+# 🕸️ Sobre mim
+
+🎓 Técnico em **Redes de Computadores** pelo **ITB Barueri**
+
+📚 Atualmente cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI**
+
+💻 Apaixonado por desenvolvimento **Full Stack**, infraestrutura e banco de dados.
+
+🚀 Buscando minha primeira oportunidade na área de tecnologia.
+
+---
+
+# 🛠️ Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode"/>
+</p>
+
+---
+
+# 📌 Projetos
+
+| Projeto | Tecnologias | Status |
+|---------|-------------|--------|
+| 🪑 **Cadeira Inteligente de Postura** | Python + Arduino | 🚧 Em desenvolvimento |
+| 🌐 **Sistema Web SENAI** | HTML • CSS • JavaScript • MySQL | 🚧 Em desenvolvimento |
+| 📡 **Laboratórios de Redes** | Cisco Packet Tracer | ✅ Finalizado |
+
+---
+
+# 📚 Atualmente estudando
+
+- ☕ Java
+- 🐍 Python
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🗄️ MySQL
+- 🔗 Git & GitHub
+- 🌎 Infraestrutura de Redes
+
+---
+
+# 🎯 Objetivo
+
+Desenvolver soluções modernas, eficientes e bem estruturadas, evoluindo constantemente como **Desenvolvedor Full Stack** e contribuindo para projetos que gerem impacto positivo.
+
+---
+
+# 🎓 Formação
+
+✔️ Técnico em Redes de Computadores — **ITB Barueri**
+
+📖 Técnico em Desenvolvimento de Sistemas — **SENAI** *(Em andamento)*
+
+---
+
+<p align="center">
+
+🕸️ 🕷️ 🕸️
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E23636,50:1E90FF,100:111111"/>
 </p>
