@@ -68,8 +68,8 @@ Full Stack Developer em Formação
 
 - ☕ Java
 - 🐍 Python
-- 🌐 HTML5
-- 🎨 CSS3
+- 🌐 HTML
+- 🎨 CSS
 - ⚡ JavaScript
 - 🗄️ MySQL
 - 🔗 Git & GitHub
@@ -79,7 +79,7 @@ Full Stack Developer em Formação
 
 # 🎯 Objetivo
 
-Desenvolver soluções modernas, eficientes e bem estruturadas, evoluindo constantemente como **Desenvolvedor Full Stack** e contribuindo para projetos que gerem impacto positivo.
+Desenvolver soluções modernas, eficientes e bem estruturadas, evoluindo constantemente como **Desenvolvedor Full Stack** e em busca da primeira oportunidade na área.
 
 ---
 
