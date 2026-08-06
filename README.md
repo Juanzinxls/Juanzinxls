@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./assets/banner-batman.png" width="100%" alt="Batman Banner">
+  <img src="banner.png" width="100%" alt="Batman Banner">
 </p>
 
 <h1 align="center">
