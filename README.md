@@ -34,7 +34,7 @@ Full Stack Developer em Formação
 
 ---
 
-# 🦇 Sobre mim
+# Sobre mim
 
  Técnico em Redes de Computadores pelo **ITB Barueri**
 
@@ -46,7 +46,7 @@ Full Stack Developer em Formação
 
 ---
 
-# 🛠️ Tecnologias
+# Tecnologias
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode"/>
@@ -54,7 +54,7 @@ Full Stack Developer em Formação
 
 ---
 
-# 📌 Projetos
+# Projetos
 
 | Projeto | Tecnologias | Status |
 |---------|-------------|--------|
@@ -64,7 +64,7 @@ Full Stack Developer em Formação
 
 ---
 
-# 📚 Atualmente estudando
+# Atualmente estudando
 
 -  Java
 -  Python
@@ -77,13 +77,13 @@ Full Stack Developer em Formação
 
 ---
 
-# 🎯 Objetivo
+# Objetivo
 
 Desenvolver soluções modernas, eficientes e seguras, evoluindo continuamente como Desenvolvedor Full Stack.
 
 ---
 
-# 🎓 Formação
+# Formação
 
  Técnico em Redes de Computadores — ITB Barueri
 
