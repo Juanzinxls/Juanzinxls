@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-🦇 Juan Campos
+ Juan Campos
 </h1>
 
 <h3 align="center">
@@ -36,13 +36,13 @@ Full Stack Developer em Formação
 
 # 🦇 Sobre mim
 
-🎓 Técnico em Redes de Computadores pelo **ITB Barueri**
+ Técnico em Redes de Computadores pelo **ITB Barueri**
 
-📚 Técnico em Desenvolvimento de Sistemas no **SENAI**
+ Técnico em Desenvolvimento de Sistemas no **SENAI**
 
-💻 Apaixonado por desenvolvimento Full Stack, infraestrutura e banco de dados.
+ Apaixonado por desenvolvimento Full Stack, infraestrutura e banco de dados.
 
-🚀 Buscando minha primeira oportunidade na área de tecnologia.
+ Buscando minha primeira oportunidade na área de tecnologia.
 
 ---
 
@@ -58,22 +58,22 @@ Full Stack Developer em Formação
 
 | Projeto | Tecnologias | Status |
 |---------|-------------|--------|
-| 🪑 Cadeira Inteligente de Postura | Python + Arduino | 🚧 Em desenvolvimento |
-| 🌐 Sistema Web SENAI | HTML • CSS • JS • MySQL | 🚧 Em desenvolvimento |
-| 📡 Laboratórios de Redes | Cisco Packet Tracer | ✅ Finalizado |
+|  Cadeira Inteligente de Postura | Python + Arduino |  Em desenvolvimento |
+|  Sistema Web SENAI | HTML • CSS • JS • MySQL |  Em desenvolvimento |
+|  Laboratórios de Redes | Cisco Packet Tracer |  Finalizado |
 
 ---
 
 # 📚 Atualmente estudando
 
-- ☕ Java
-- 🐍 Python
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🗄️ MySQL
-- 🔗 Git & GitHub
-- 🌎 Infraestrutura de Redes
+-  Java
+-  Python
+-  HTML5
+-  CSS3
+-  JavaScript
+-  MySQL
+-  Git & GitHub
+-  Infraestrutura de Redes
 
 ---
 
@@ -85,15 +85,11 @@ Desenvolver soluções modernas, eficientes e seguras, evoluindo continuamente c
 
 # 🎓 Formação
 
-✔️ Técnico em Redes de Computadores — ITB Barueri
+ Técnico em Redes de Computadores — ITB Barueri
 
-📖 Técnico em Desenvolvimento de Sistemas — SENAI *(Em andamento)*
+ Técnico em Desenvolvimento de Sistemas — SENAI *(Em andamento)*
 
 ---
-
-<p align="center">
-🦇 🦇 🦇
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:FFD700,100:1A1A1A"/>
